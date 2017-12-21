@@ -10,14 +10,14 @@ kaynaklar:
     title: "Bitcoin.com"
     excerpt: "Bitcoin anasayfa."
     url: "https://www.bitcoin.com/"
-    btn_label: "Devam"
-    btn_class: ".btn .btn--inverse"
+    btn_label: "-->"
+    btn_class: "btn btn--inverse"
   - image_path: "https://info.shapeshift.io/sites/default/files/styles/blog_thumb/public/Steem%20and%20ShapeShift.png?itok=6OkojdcX"
     alt: "shapeshift.io"
     title: "Shapeshift.io"
     excerpt: "Para birimleri arası değişim."
     url: "https://shapeshift.io/"
-    btn_label: "Devam"
+    btn_label: "-->"
     btn_class: "btn btn--inverse"
 ---
 

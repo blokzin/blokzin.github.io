@@ -11,9 +11,6 @@ iletisim:
     excerpt: ""
 ---
 
-İletişim
-========
-
 Blokzin henüz kurulum aşamasındadır...
 
 Bize katılmak isterseniz: hey@blokzin.com.
