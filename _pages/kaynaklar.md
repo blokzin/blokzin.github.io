@@ -8,8 +8,8 @@ kaynaklar:
   - image_path: "/assets/img/resources/bitcoin-whitepaper.png"
     alt: "bitcoin-whitepaper"
     title: "Bitcoin Makalesi"
-    excerpt: "Satoshi Nakamoto tarafindan yazilan orijinal Bitcoin makalesi.<br>
-    [Ingilizce](https://bitcoin.org/bitcoin.pdf) - [Turkce](https://books.google.co.uk/books?id=ZpKyAwAAQBAJ&lpg=PA1&hl=tr&pg=PA1#v=onepage&q&f=false)"
+    excerpt: "Satoshi Nakamoto tarafından yazılan orijinal Bitcoin makalesi.<br>
+    [İngilizce](https://bitcoin.org/bitcoin.pdf) - [Türkçe](https://books.google.co.uk/books?id=ZpKyAwAAQBAJ&lpg=PA1&hl=tr&pg=PA1#v=onepage&q&f=false)"
   - image_path: "/assets/img/resources/bitcoin-com.png"
     alt: "bitcoin.com"
     title: "<a href='https://www.bitcoin.com'>Bitcoin.com</a>"
@@ -18,6 +18,10 @@ kaynaklar:
     alt: "shapeshift.io"
     title: "<a href='https://shapeshift.io/'>Shapeshift.io</a>"
     excerpt: "Para birimleri arası değişim."
+  - image_path: "/assets/img/resources/ledger-journal.png"
+    alt: "bitcoin-whitepaper"
+    title: "Bitcoin Makalesi"
+    excerpt: "[Dünyanın ilk Blokzinciri hakkında, ücretsiz akademik dergisi.](https://ledgerjournal.org)"
 ---
 
 Kaynaklar
