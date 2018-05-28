@@ -3,8 +3,12 @@ layout: splash
 title:  "NeNasıl - Renkli paralar (Colored Coins)"
 date:   2018-01-18
 author: Kutay B. Sezginel
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/img/posts/colored-coins.jpg
+excerpt: " <br> <br> <br> "
 ---
-![colored-coins](/assets/img/posts/colored-coins.jpg)
 
 Renkli paralar nedir?
 =====================
@@ -20,7 +24,7 @@ Renkli paraların kullanım alanları
 Renli paranın planlanan birçok kullanım alanı bulunmakta.
 Aşağıda bunlara birkaç örnek vereceğim.
 
-### Kişiler arası varlık takası
+### Kişiler arası varlık takası
 
 Renkli paralar ile kişilere ait varlıklar internet üzerinden
 aracı bir kurum olmadan takas edilebilir.
@@ -30,8 +34,6 @@ Gerektiğinde 3. bir şahsın güven sağlamak için aracı olması da mümkünd
 Bu şekilde takas edilmek istenen varlıklar öncelikle aracı bir kişiye transfer edilir ve anlaşma sağlandığında varlıklar yeni
 sahiplerine yollanır.
 
-
-Senaryo:
 
 **Konser bileti aktarımı**
 
@@ -54,7 +56,7 @@ Renkli (işaretlenmiş) paranın sahibi malın da sahibi olur.
 
 Böylece renkli (işaretlenmiş) paraya sahip olan kişi evin de sahibi olmuş oluyor.
 
-### Puan toplama
+### Puan toplama
 
 Renkli paraların kullanım alanı olarak düşünülenlerden birisi
 tüccara özel puan toplama.
@@ -86,7 +88,6 @@ hızı yüksek olduğu için renkli paralar gibi işlem hacmini
 artıracak gelişmeler kolaylıkla uygulanabilir.
 Bitcoin Cash kullanıcıları ve yazılımcıları renkli paraların kullanılması için oldukça istekliler.
 
-Kaynaklar
----------
+### Kaynaklar
 
-[Bitcoin Cash Colored Coins | Simply Explained](https://www.youtube.com/watch?v=889JSfIaPzs)
+- [Bitcoin Cash Colored Coins - Simply Explained](https://www.youtube.com/watch?v=889JSfIaPzs)

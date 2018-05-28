@@ -1,39 +1,35 @@
 ---
 layout: splash
-title:  "Blokzin'e hoşgeldiniz"
+title:  "Bitcoin"
 date:   2018-02-23
 author: Kutay B. Sezginel
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/img/posts/what-is-bitcoin-story.jpg
+excerpt: " Nedir? <br> Neden umursamaliyiz? <br> <br> <br> "
 ---
-
-Blokzin'e hoşgeldiniz. Blokzin blokzinciri ve kriptoparalar hakkında açık kaynaklı, ücretsiz ve internet üzerinden yayınlanan bir dergi/fanzindir.
-Blokzin'in amacı blokzinciri teknolojisi hakkında tarafsız ve sansürsüz bilgi vermek,
-bu teknolojinin Türkiye'de yayılmasına ve gelişmesine katkı sağlamaktır.
-
-Blokzin'e isteyen herkes katkı yapabilir.
-
-İlk sayı için öncelikle blokzinciri ve kriptoparalara kısa bir giriş yapmak istiyorum.
-Kriptopara ve blokzinciri ilk kez 2008 yılında Satoshi Nakamoto takma adlı bir kişi ya da grup tarafından kaleme alınan Bitoin makalesi ile ortaya çıkmıştır.
-Başlarda bu makale internet üzerinden kriptografi forumlarında paylaşıyor fakat pek bir ilgi görmüyor.
-Daha sonra ilginin artmasıyla Bitcoin yazılımı 2009 yılında çalıştırılmaya başlamıştır.
-
-
-Bitcoin
-=======
-
-![bitcoin-story](/assets/img/posts/what-is-bitcoin-story.jpg)
 
 Bitcoin nedir?
 --------------
 Temelde Bitcoin bir para birimidir.
-Türk lirasi, dolar ve euro gibi bitcoin de alışverişlerde kullanabilir, biriktirebilir ve başka paralarla takas edilebilir.
+Türk lirasi, dolar ve euro gibi bitcoin de alışverişlerde kullanabilir, biriktirebilir ve başka paralara takas edilebilir.
 Fakat Bitcoin dünyanin ilk dijital ve merkeziyetsiz para birimidir.
 
 Kredi kartları ve internet bankacılığı sayesinde aslında çoğu para birimi zaten dijitalize olmuştur.
-Fakat, bu para birimlerinin ve servislerin en büyük
-farkı aracı bir kurum tarafindan kontrol ediliyor olmalarıdır.
-Yani isterse kredi kartı şirketi alışverişinizi engelleyebilir.
-Bu sayede kurumların istedikleri ya da devlet gibi diğer kurumlar tarafından talimat aldıkları
-zaman kişilerin ekonomik özgürlüklerini sınırlayabilmelerine yol açmıştır.
+Fakat, bu para birimlerinin ve servislerin en büyük farkı aracı bir kurum tarafindan kontrol ediliyor olmalarıdır.
+
+Mesela bankalari ele alalim.
+Bankadaki paranizin kontrolu ne kadar sizin elinizdeyse bir o kadar da bankanin elindedir.
+Yani (pek sik olmasa da) banka istedigi zaman paranizi istedigi gibi kontrol edebilir.
+Bankada para tutmasaniz bile kredi kartlari icin de ayni durum gecerli.
+Visa, MasterCard gibi kredi karti sirketleri butun islemlerini kontrol edebilirler.
+Yani isterse kredi kartı şirketleri alışverişinizi engelleyebilir.
+Ya da devlet gibi kurumlar tarafından talimat aldıkları zaman kişilerin ekonomik özgürlüklerini sınırlayabilmelerine yol açmıştır.
+
+Bankalara ve kredi kartlarina alternatif nakit parayi dusunebilirsiniz.
+Nakit para fiziksel bir varliktir ve elinizde oldugu surece istediginiz gibi kullanabilirsiniz.
+
 Ayrıca, devletler kendi paralarının toplam miktarını kontrol edebilirler.
 Yani istedekleri zaman para miktarını artırabilir ve bu parayı
 istedikleri gibi harcayabilirler.
@@ -119,7 +115,7 @@ Aynı zamanda Bitcoin içindeki fikir ayrılıkları da Bitcoin'in kendi içinde
 
 ### Bitcoin Versiyonları ve Aralarındaki Farklar
 
-### Bitcoin Core (BTC)
+#### Bitcoin Core (BTC)
 
 Bitcoin Core blok boyutunu 1 MB olarak sınırlamaya karar vermiştir.
 Blok boyutunun birim zamanda yapılabilecek işlem sayısının kısıtlanmasına sebep olmaktadır.
@@ -181,7 +177,7 @@ Bitcoin'in bir yatırım amacı olarak kullanılmasını ikincil bir amaç olara
 Bu yazının tarihinde ortalama işlem ücreti 0.20 $ civarındadır.
 
 
-### Kaynaklar
+### Kaynaklar
 
 [A gentle introduction to bitcoin - Bits on blocks](https://bitsonblocks.net/2015/09/01/a-gentle-introduction-to-bitcoin/)
 
