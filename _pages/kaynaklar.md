@@ -20,7 +20,7 @@ kaynaklar:
     excerpt: "Para birimleri arası değişim."
   - image_path: "/assets/img/resources/ledger-journal.png"
     alt: "bitcoin-whitepaper"
-    title: "Bitcoin Makalesi"
+    title: "<a href='https://ledgerjournal.org'>Ledger</a>"
     excerpt: "[Dünyanın ilk Blokzinciri hakkında, ücretsiz akademik dergisi.](https://ledgerjournal.org)"
 ---
 
